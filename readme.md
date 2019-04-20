@@ -15,9 +15,10 @@ my table|emmm|emmmm
 1|2|3
 4|5|6
 
-[ ] Eat
-[x] Code
-  [ ] ESTR2002
-  [ ] CSCI3250
-  [x] data structure
-[ ] Sleep
+- [x] Eat
+- [ ] Code
+  - [ ] ESTR2002
+  - [ ] CSCI3250
+  - [x] data structure
+- [ ] Sleep
+
