@@ -21,3 +21,7 @@ my table|emmm|emmmm
   [ ] CSCI3250
   [x] data structure
 [ ] Sleep
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
