@@ -15,13 +15,10 @@ my table|emmm|emmmm
 1|2|3
 4|5|6
 
-[ ] Eat
-[x] Code
-  [ ] ESTR2002
-  [ ] CSCI3250
-  [x] data structure
-[ ] Sleep
+- [x] Eat
+- [x] Code
+  - [x] ESTR2002
+  - [x] CSCI3250
+  - [x] data structure
+- [x] Sleep
 
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
