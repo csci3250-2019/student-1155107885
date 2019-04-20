@@ -22,3 +22,6 @@ my table|emmm|emmmm
   - [x] data structure
 - [ ] Sleep
 
+###### screenshot
+![SC1](https://github.com/csci3250-2019/student-1155107885/blob/master/1.png)
+![SC2](https://github.com/csci3250-2019/student-1155107885/blob/master/2.png)
